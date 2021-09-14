@@ -2,13 +2,13 @@
 <!-- saved from url=(0067)file:///C:/Users/Xiaomi/Desktop/%D1%88%D1%82%D1%83%D0%BA%D0%B0.html -->
 <html><!-- зона заголовка html, тег <title> - строка, которую браузер отображает на вкладках над страницами, <meta> и <link> сообщают технические сведения для браузера, например, что файл имеет кодировку Юникод (utf-8) --><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<title>Anastasia Kiknadze. Personal page</title>
-	 	<!-- Required meta tags -->
+	 	
 	 	
 	 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 		<meta name="description" content="Личная страница и контакты">
 
-		<!-- Bootstrap Core CSS -->
+		
 		<link href="./Anastasia Kiknadze. Personal page_files/bootstrap.min.css" rel="stylesheet" media="screen">
 
 
@@ -277,7 +277,7 @@ requestAnimationFrame(loop);
 
 				<div class="col-md-3">
 					<h3> My social media</h3>.
-<!-- тег <ul> - unordered list. Еще бывает тег <ol> -->
+
 					<ul>
 						<a href=https://vk.com/ana_k_dze><li>VK </li> </a>
 						<a href=https://leonardo.osnova.io/78eef346-362b-5429-b2e7-18cc392961a3/ ><li>Facebook</li></a>
@@ -288,7 +288,6 @@ requestAnimationFrame(loop);
 			</div>
 		</section>
 
-<!-- это подвал. В этой части страницы обычно ставят копирайт (с помощью символа &copy;) и пишут об истории создания страницы. Поставьте свой копирайт -->
 		<footer class="bs-docs-footer"> 
 			<div class="container"> 
 				<p style="text-align:right; ">© A.Kiknadze, 2021</p> 
