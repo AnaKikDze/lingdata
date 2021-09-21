@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-21T09:59:42+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/Xiaomi/Downloads/SeniorHatesVolodin.mp4" MIME_TYPE="video/mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:c8b53e23-acfa-40bf-a954-4c53168fe9a5</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">70</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="624"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="966"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="989"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="2063"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="2072"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="4603"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="4910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="6841"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="6905"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="7503"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="7680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="10267"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="11505"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="13131"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="13298"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="13745"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="14026"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="14288"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="14414"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="16595"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="16813"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="18099"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="18274"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="18423"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="18468"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="31485"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="31838"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="35153"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="35854"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="52180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="53009"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="60873"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="60949"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="74458"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="74534"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="75472"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="78850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="82457"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="82839"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="84846"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="85546"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="90117"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="90156"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="98189"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="98358"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="105340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="106305"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="117252"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="117375"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="128099"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="129708"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="130410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="130410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="138090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="138269"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="149342"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="149622"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="160256"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="160384"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="169347"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="AnaKikDze" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@vvv1964m" TIER_ID="'text@vvv1964m'">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>здравствуйте</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>привет / привет /здрасте / вы молодежь воспитываете?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>правильно</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>я вот тоже её ругаю</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>хорошо / давайте</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>так</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>так</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>нельзя так говорить // молодёжь / молодё... /  моло.. / молодёжь / молодёжь смотрит</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>хорошо</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="AnaKikDze" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@aap1931f" TIER_ID="'text@aap1931f'">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>привет / привет</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>да / вот сейчас только лекцию читаю</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>ругаю нынешнюю власть / с матерком // а я и вас ругаю</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>потому что вот... / вот / поверь мне / вот я только щас ей и сказала </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>я из деревни Тамбовской области // война началась / мне было десять лет // четыре года голод и вши / и за эти четыре года деревня // хорошая / триста дворов </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>перед самой войной закончилась коллективизация</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>теперь смотри // за эти четыре года лихорадка // и мышиный тиф // вот рожь скосили / закопнили  / а скирдовать не стали / потому что мыши сплошняком / то есть если ски... заскирдовать / то потом вот это всё будет / резко</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>так вот понимаешь / какая штука-та // почему до сих пор / почему до сих пор / народ плохо живет?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>вот читаю газету / пишут / вот в пятидесятом году школьники вот так... // этот Жириновский // я извиняюсь / мужики // этот Жириновский / *** / почему вот это печатают в газете?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>нельзя? // а как можно? // а молодежь вон она посмотри по... / по эти всякие / у меня этого нет ну</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>молодёжь-то чем занимается?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>так вот я про это // вот началася вот эта хрень</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>чем лечат / Мясников доктор говорит // хина // и антибиотики</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>так вот я к чему / вот тогда / давали / желтенькие таблеточки // вот когда лихорадка была / там местный фельдшер управлялся </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>а когда мышиный тиф / по деревне прошли военные // в каждую избу заходили / сколько человек / и вот вам всем желтенькие</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>вот я стою перед тобой / вот пожалуйста послушай / мой совет // уж пожалуйста / прикрути все крантики / чтобы не врали</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>а то воруют миллиарды / миллиарды / ну как можно? // вот она Пенза / вот обыск / вот пятьсот миллионов</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>ну это как? / там что / кругом / глухонемые? // он же / один // и...  или нашего объявили этого / как его // в федеральный розыск / Прокопенко</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>он кстати / он как там / не голодает / Прокопенко? // хорошо живёт? // объявляют в розыск / а тут люди говорят / а он вот / в Саратове #нрзб# // врать-то сколько? /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>и потом кого же / кого же вы обманываете? // вот я / мне девяносто было у меня никакой льготы / никакой</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="gestures" TIER_ID="V-RGU"/>
+    <TIER LINGUISTIC_TYPE_REF="gestures" TIER_ID="B-RGU"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="words"
+        PARENT_REF="'text@aap1931f'" TIER_ID="W-Words"/>
+    <TIER DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="phonetic_transcription"
+        PARENT_REF="'text@aap1931f'" TIER_ID="W-IPA"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gesture_phases"
+        PARENT_REF="V-RGU" TIER_ID="W-RGph"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gesture_phases"
+        PARENT_REF="B-RGU" TIER_ID="K-RGph"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="part of speech"
+        PARENT_REF="W-Words" TIER_ID="W-POS"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gesture_meaning"
+        PARENT_REF="W-RGph" TIER_ID="W-RGMe"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gesture_meaning"
+        PARENT_REF="K-RGph" TIER_ID="K-RGMe"/>
+    <TIER ANNOTATOR="AnaKikDze" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="'text@vvv1964m'"
+        PARTICIPANT="@vvv1964m" TIER_ID="transl@vvv1964m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>hello</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>hi / hi / hello / are you educating the youth? </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>that's good</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>I do it too</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>alright / bring it on </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>right</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>right</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>you mustn't say that // the youth / the you... / you... / the youth / the youth is watching</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>alright</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="AnaKikDze" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="'text@aap1931f'"
+        PARTICIPANT="@aap1931f" TIER_ID="transl@aap1931f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>hi / hi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>yes / I was lecturing just now</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>I'm scolding the current government / with swear words // i'm scolding you as well</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>yes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>because just / just / trust me / I have just told her</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>I am from a village in Tambov Oblast // when the war started / i was ten years old // four years of famine and lice / and in these four years the village // a big one / three hundred houses</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>the collectivization ended right before the war</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>Now look in these four years the fever and murine typhus were around. People mowed rye, collected it, but didn't stack it because of the abundance of mice. I mean if it gets stacked then all of this will happen in an instant</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>So you see what's happening. Why does... why does the nation still live so bad?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>I'm reading a paper / they write / the students in the fifties well... // this Zhirinovsky // pardon me / fellows // this Zhirinovsky / for *** sake / why is this published in papers?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>I mustn't say that? // what can i say then? // you see the youth is... / is all about that stuff / that I don't have, well</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>what is the youth doing?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>I was talking about // well all that shit started</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>how is this treated? / Myasnikov the doctor says // quinine // and antibiotics</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>what I'm saying is / back then / they gave us / the yellow pills // in times of fever / the local feldsher handled it</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>and during the typhus / the village was visited by the soldiers // they entered each house / and each person got a yellow one</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>here I am standing in front of you / please listen / to my advice // just please / do something / to make them stop lying</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>because they're stealing billions / billions! / how is that possible? // here's Penza / here's the raid / here's five hundred million</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>how could that happen? / are they / all / blind and deaf? // he's alone // o... or one of ours / this / what was his name // was on the federal wanted list / Prokopenko</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>By the way / how's he? / doesn't starve? / this Prokopenko // living good? // he's on the wanted list / and there people are saying / he's here / in Saratov // when will you stop lying?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>and who are you / who are you deceiving? // take me for example / I got ninety and there is not a hint of senior benefits</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <LOCALE COUNTRY_CODE="US" LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_a813aca1-87ce-4d83-9cd9-92be21759fb6">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3fb820dd-16ee-4f21-94df-32d416cc762a">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_fa77eea4-9a82-44b7-aa16-17509ed58e3d">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2f97da5a-080b-4626-bfcf-682651a45c2e">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_02432430-f6f1-4c77-a311-9c0dc39a7fed">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b7d9949c-bef5-4ae4-bb8c-6daff346cf64">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8b2e5c04-a074-4b7f-abeb-a52c2f5ff72f">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_04f4866b-e251-4607-b2c7-c34a64857ce7">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6ddbdcdd-7e47-4988-a7ff-cd115687a60c">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_22c02f6c-f322-4df4-a53f-7ec45886f310">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a18d4ab6-11f8-4877-a564-c72619a6a0c3">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6b4f6352-eb43-4c86-a78e-bd766905c491">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_4d3f2f8d-2d61-4228-a0f5-1149651eba3b">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_d3944a14-8b35-413a-8bde-125030ced75f">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_fbd7835d-4bce-49fc-aa93-5ad7a3a9676f">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_674fa6f8-0ff6-4e89-a3fb-794aa580fec1">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b90758a9-9170-4b18-a95f-4848a60256be">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
